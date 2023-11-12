@@ -13,9 +13,10 @@ Currently two experiments have been implemented:
   * Uniform
   * Triangular
   * Gaussian
+* Applied Monte Carlo simulations to Apple
 ### Next steps:
 * Implement a yearly predicition model
-* Apply the simulation to real companies
+* Keep applying simulation to real companies (current companies: APPL)
 
 ## Further Work:
 * Currently implementing a queuing theory simulation
